@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research to System + Paper"
+  short_description: "Turn a proposal into a system and thesis"
+  default_prompt: "Use $multi-agent-research-to-system-paper to turn this opening proposal into a validated research plan, system implementation, experiments, and thesis deliverables."
