@@ -138,7 +138,7 @@ cd research-to-system-paper
 2. **在对话中调用 Skill**  
    使用平台特定的 Skill 调用语法，例如：
    ```text
-   使用 $multi-agent-research-to-system-paper，
+   使用 $research-to-system-paper，
    根据这份开题报告完成需求分析、系统开发、实验验证和硕士论文材料。
    ```
 
@@ -176,21 +176,21 @@ cd research-to-system-paper
 **完整流程（开题报告 → 系统 + 论文）：**
 
 ```text
-使用 $multi-agent-research-to-system-paper，
+使用 $research-to-system-paper，
 根据这份开题报告完成需求分析、系统开发、实验验证和硕士论文材料。
 ```
 
 **接管已有仓库：**
 
 ```text
-使用 $multi-agent-research-to-system-paper 检查当前仓库。
+使用 $research-to-system-paper 检查当前仓库。
 盘点已有代码、数据、实验和论文草稿，从下一个未完成的质量门禁继续推进。
 ```
 
 **只完成系统部分：**
 
 ```text
-使用 $multi-agent-research-to-system-paper 的 system-only 模式，
+使用 $research-to-system-paper 的 system-only 模式，
 根据开题报告完成系统架构、算法接口、前后端实现和测试，不撰写论文正文。
 ```
 

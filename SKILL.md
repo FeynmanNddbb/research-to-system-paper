@@ -1,5 +1,5 @@
 ---
-name: multi-agent-research-to-system-paper
+name: research-to-system-paper
 description: Coordinate multiple specialized agents to turn a thesis proposal, opening report, project brief, or research requirements into a validated research plan, implementable software system, reproducible experiments, and evidence-grounded master's thesis materials. Use for Chinese or English requests such as 根据开题报告做系统和论文、从科研需求搭建项目、研究方案到代码与论文、multi-agent thesis project, or continuing an existing research repository into system and paper deliverables.
 ---
 
